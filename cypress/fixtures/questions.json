@@ -3,9 +3,9 @@
         "question": "What is the correct answer?",
         "answers": [
             {"text": "correct", "isCorrect": true},
-            {"text": "nope", "isCorrect": true},
-            {"text": "not this one", "isCorrect": true},
-            {"text": "nah", "isCorrect": true}
+            {"text": "nope", "isCorrect": false},
+            {"text": "not this one", "isCorrect": false},
+            {"text": "nah", "isCorrect": false}
         ]
     }
 ]
